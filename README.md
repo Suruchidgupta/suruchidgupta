@@ -26,4 +26,4 @@ Highly adept at Clustering and Classfication, Web Scraping, Data Analysis and Vi
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suruchidgupta&show_icons=true&locale=en&layout=compact" alt="suruchidgupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suruchidgupta&show_icons=true&locale=en" alt="suruchidgupta" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=suruchidgupta&show_icons=true&locale=en" alt="suruchidgupta" /></p>
