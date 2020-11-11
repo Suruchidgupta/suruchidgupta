@@ -3,7 +3,7 @@
 
 Highly adept at Clustering and Classfication, Web Scraping, Data Analysis and Visualisation. Passionate Engineer and thriving Analyst with ability to apply ML techniques and Algorithm Development to solve real-world industry problems. Recently, completed my Masters from National University of Ireland, Galway.
 
-- 🌱 I’m currently learning about **various Machine Learning algorithms**
+- 🌱 I’m currently learning about **Machine Learning and Artificial Intelligence**
 
 - 🤝 I’m looking to collaborate on **Computer Vision, Natural Language Processing, Data Science and Machine Learning projects**
 
@@ -11,9 +11,9 @@ Highly adept at Clustering and Classfication, Web Scraping, Data Analysis and Vi
 
 - 📫 Reach me at [email](mailto:suruchidgupta@gmail.com)
 
-- 📄 Know about my experiences from my [Resume](https://github.com/Suruchidgupta/suruchidgupta/blob/master/Files/SuruchiGupta_Resume.pdf)
+- 📄 Know about my experience from my [Resume](https://github.com/Suruchidgupta/suruchidgupta/blob/master/Files/SuruchiGupta_Resume.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find Me Online:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/suruchidgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suruchidgupta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/suruchidgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="suruchidgupta" height="30" width="40" /></a>
@@ -24,6 +24,6 @@ Highly adept at Clustering and Classfication, Web Scraping, Data Analysis and Vi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suruchidgupta&label=Profile%20views&color=0e75b6&style=flat" alt="suruchidgupta" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suruchidgupta&show_icons=true&locale=en&layout=compact" alt="suruchidgupta" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=suruchidgupta&show_icons=true&locale=en" alt="suruchidgupta" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=suruchidgupta&show_icons=true&locale=en" alt="suruchidgupta" /></p>
+<p>&nbsp;
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suruchidgupta&show_icons=true&locale=en&layout=compact" alt="suruchidgupta" /></p>
