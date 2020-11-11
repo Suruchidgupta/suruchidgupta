@@ -1,5 +1,5 @@
-<h1 align="center">Hi ✌️, I'm Suruchi</h1>
-<h3 align="center">A passionate Software Engineer, residing in Galway, Ireland</h3>
+<h1 align="left">Hi ✌️, I'm Suruchi</h1>
+<h3 align="left">A passionate Software Engineer, residing in Galway, Ireland</h3>
 
 Highly adept at Clustering and Classfication, Web Scraping, Data Analysis and Visualisation. Passionate Engineer and thriving Analyst with ability to apply ML techniques and Algorithm Development to solve real-world industry problems. Recently, completed my Masters from National University of Ireland, Galway.
 
