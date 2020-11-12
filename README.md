@@ -3,14 +3,10 @@
 
 Highly adept at Clustering and Classfication, Web Scraping, Data Analysis and Visualisation. Passionate Engineer and thriving Analyst with ability to apply ML techniques and Algorithm Development to solve real-world industry problems. Recently, completed my Masters from National University of Ireland, Galway.
 
-- 🌱 I’m currently learning about **Machine Learning and Artificial Intelligence**
-
+- 🌱 I’m currently learning about **Machine Learning and Artificial Intelligence (Also brushing up my knowledge about Data Structures and Algorithms regularly)**
 - 🤝 I’m looking to collaborate on **Computer Vision, Natural Language Processing, Data Science and Machine Learning projects**
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Suruchidgupta)
-
 - 📫 Reach me at [email](mailto:suruchidgupta@gmail.com)
-
 - 📄 Know about my experience from my [Resume](https://github.com/Suruchidgupta/suruchidgupta/blob/master/Files/SuruchiGupta_Resume.pdf)
 
 <h3 align="left">Find Me Online:</h3>
@@ -24,6 +20,8 @@ Highly adept at Clustering and Classfication, Web Scraping, Data Analysis and Vi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suruchidgupta&label=Profile%20views&color=0e75b6&style=flat" alt="suruchidgupta" /> </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=suruchidgupta&show_icons=true&locale=en" alt="suruchidgupta" /></p>
-<p>&nbsp;
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suruchidgupta&show_icons=true&locale=en&layout=compact" alt="suruchidgupta" /></p>
+NOTE: Top languages does not indicate my skill level, it is a metric of languages that I have most used on GitHub (Available as a part of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+
+![Suruchi's Github Stats](https://github-readme-stats.vercel.app/api?username=suruchidgupta&show_icons=true&theme=vue-dark)
+![Suruchi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suruchidgupta&show_icons=true&theme=vue-dark&layout=compact)
+
