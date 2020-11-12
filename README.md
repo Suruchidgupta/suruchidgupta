@@ -20,8 +20,8 @@ Highly adept at Clustering and Classfication, Web Scraping, Data Analysis and Vi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suruchidgupta&label=Profile%20views&color=0e75b6&style=flat" alt="suruchidgupta" /> </p>
 
-NOTE: Top languages does not indicate my skill level, it is a metric of languages that I have most used on GitHub (Available as a part of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-
 ![Suruchi's Github Stats](https://github-readme-stats.vercel.app/api?username=suruchidgupta&show_icons=true&theme=vue-dark)
 ![Suruchi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=suruchidgupta&show_icons=true&theme=vue-dark&layout=compact)
+
+NOTE: Top languages does not indicate my skill level, it is a metric of languages that I have most used on GitHub (Available as a part of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
